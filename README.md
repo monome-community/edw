@@ -6,4 +6,4 @@ created by: stretta
 
 http://vimeo.com/21596928
 
-![](app:edw.png)
+![](edw.png)
