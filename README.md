@@ -4,6 +4,8 @@ electric dharma wheels is a FM synthesizer for the monome arc. arc4s are preferr
 
 created by: stretta
 
-http://vimeo.com/21596928
+<http://vimeo.com/21596928>
 
 ![](edw.png)
+
+user [docs](edw_docs.md).
